@@ -324,7 +324,11 @@ Implements Encapsulation, Polymorphism, and Inversion of Control principles for 
 ## 🐍 13. Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Jayanti29/Jayanti29/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jayanti29/Jayanti29/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jayanti29/Jayanti29/output/github-contribution-grid-snake.svg">
+    <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/Jayanti29/Jayanti29/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
 </div>
 
 ---
